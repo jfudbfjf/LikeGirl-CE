@@ -58,7 +58,7 @@ include_once 'head.php';
                     <img src="Style/img/card/likegirl_card_4.svg" alt="">
                     <div class="text">
                         <span><a target="_self" href="loveImg.php">Love Photo</a></span>
-                        <p>恋爱相册 记录最美瞬间</p>
+                        <p>相册 记录这一柯</p>
                     </div>
                 </div>
                 <div
@@ -68,7 +68,7 @@ include_once 'head.php';
                     <img src="Style/img/card/likegirl_card_5.svg" alt="">
                     <div class="text">
                         <span><a target="_self" href="list.php">Love List</a></span>
-                        <p>恋爱列表 你我之间的约定</p>
+                        <p>约定</p>
                     </div>
                 </div>
             </div>
